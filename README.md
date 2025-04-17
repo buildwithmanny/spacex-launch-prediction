@@ -1,5 +1,3 @@
-# spacex-launch-prediction
-Predicting the success of SpaceX rocket launches using real-time API data and logistic regression.
 # 🚀 Space Launch Predictions
 
 Predicting the success of SpaceX rocket launches using real-time API data and logistic regression.
