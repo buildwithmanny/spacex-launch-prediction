@@ -64,4 +64,4 @@ This project uses SpaceX launch data retrieved from a public API to build a logi
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook final_project_space_x_manuel_velazquez.ipynb
+jupyter notebook spacex_logistic_prediction.ipynb
